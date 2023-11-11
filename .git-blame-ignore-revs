@@ -1,0 +1,44 @@
+# Scala Steward: Reformat with scalafmt 3.5.8
+73e7950a05caaf5e6d697066d7c1b1c0295bf3d8
+
+# Scala Steward: Reformat with scalafmt 3.5.9
+42aeb55b54691fb7a60e9a6e600e5551518f7dd6
+
+# Scala Steward: Reformat with scalafmt 3.6.0
+eea12a89f8550d74518f19ec9cda404e3f73b3d0
+
+# Scala Steward: Reformat with scalafmt 3.6.1
+49c56bf18f8ffe30f074549d47c48ec590303ffc
+
+# Scala Steward: Reformat with scalafmt 3.7.0
+6de0742336f1167faddc841fe6d34f1f1fd2f57e
+
+# Scala Steward: Reformat with scalafmt 3.7.1
+02bcdbe4a32467dcc9403e2787126caaa249278b
+
+# Scala Steward: Reformat with scalafmt 3.7.4
+84137814df3b827196e1438f3bc654c0dcc1c1f2
+
+# prettier format to 110 columns like scalafmt https://github.com/lichess-org/lila/pull/13059/files
+41b34ff3926db68c05a6a97253983f23ba21184e
+
+# Reformat with scalafmt 3.7.7 & rewrite.scala3
+77ff4f65eba676363012a04f128aa1b96a7c8c2f
+33e37c6865ac9ec0bb0346e7446af070ee9468dd
+9f15e99faca15f72e4a98462afe287741e26d34a
+2ea7f4839ff2b07fac7d8412cf2d14552ef87753
+
+# Scala Steward: Reformat with scalafmt 3.7.8
+8262679e7b93391d77c34009da4221bece583158
+
+# Scala Steward: Reformat with scalafmt 3.7.10
+9948008e7fcdd0a12961d21f689fc0cf63ef1413
+
+# Scala Steward: Reformat with scalafmt 3.7.11
+25f3a04cfa92992a2109e7cb3f3ec429a972ca8f
+
+# Scala Steward: Reformat with scalafmt 3.7.12
+6fb1e4363f3ed03acbf7aaffa10c63bc591a099f
+
+# prettier 3.0.1 update from 2.x
+72d993c45d9b9d17395e0f0a2726af325ef0621c

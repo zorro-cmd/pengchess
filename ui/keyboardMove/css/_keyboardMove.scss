@@ -1,0 +1,35 @@
+.keyboard-move {
+  @extend %flex-center-nowrap;
+  height: fit-content;
+
+  input {
+    width: 4.5em;
+    font-size: 1.1em;
+    font-weight: bold;
+    margin-#{$end-direction}: 1rem;
+    border: $border;
+
+    @include transition;
+
+    &.wrong {
+      background: $c-bad;
+      color: $c-bad-over;
+    }
+  }
+
+  em {
+    color: $c-font-dim;
+  }
+}
+
+.keyboard-move-help {
+  td.tips li {
+    list-style: disc;
+    margin-#{$start-direction}: 2em;
+    margin-#{$end-direction}: 1em;
+  }
+
+  a {
+    margin-#{$start-direction}: 0.25em;
+  }
+}

@@ -1,0 +1,23 @@
+.color-icon {
+  @if $theme-light {
+    &.white::before {
+      content: $licon-DiscBigOutline;
+    }
+
+    &.black::before {
+      content: $licon-DiscBig;
+    }
+  } @else {
+    &.white::before {
+      content: $licon-DiscBig;
+    }
+
+    &.black::before {
+      content: $licon-DiscBigOutline;
+    }
+  }
+
+  &.random::before {
+    content: $licon-RandomColor;
+  }
+}

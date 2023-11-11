@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="newAccessToken">Nuevo token personal de acceso a la API</string>
+  <string name="tokenGrantsPermission">Un token otorga permiso a otras personas para usar tu cuenta.</string>
+  <string name="carefullySelect">Selecciona cuidadosamente lo que se permite hacer en tu nombre.</string>
+  <string name="tokenDescription">Descripción del token</string>
+  <string name="rememberTokenUse">Así que recuerda para qué sirve este token</string>
+  <string name="whatTheTokenCanDo">Qué puede hacer el token en tu nombre:</string>
+  <string name="doNotShareIt">El token permitirá el acceso a tu cuenta. ¡No lo compartas con nadie!</string>
+  <string name="copyTokenNow">Asegúrate de copiar tu nuevo token de acceso personal. ¡No podrás volver a verlo!</string>
+  <string name="preferenceRead">Leer preferencias</string>
+  <string name="preferenceWrite">Preferencia de escritura</string>
+  <string name="emailRead">Leer dirección de correo electrónico</string>
+  <string name="challengeRead">Leer desafíos entrantes</string>
+  <string name="challengeWrite">Enviar, aceptar y rechazar desafíos</string>
+  <string name="challengeBulk">Crear varias partidas a la vez para otros jugadores</string>
+  <string name="studyRead">Leer estudios privados y transmisiones</string>
+  <string name="studyWrite">Crear, actualizar, eliminar estudios y emisiones</string>
+  <string name="tournamentWrite">Crear, actualizar y unirse a torneos</string>
+  <string name="racerWrite">Crear y unirse a las carreras de ejercicios</string>
+  <string name="puzzleRead">Leer actividad de los ejercicios</string>
+  <string name="teamRead">Leer información privada del equipo</string>
+  <string name="teamWrite">Unirse, salir y administrar el equipo</string>
+  <string name="teamLead">Administra los equipos que lideres: envía mensajes privados, expulsa a los miembros</string>
+  <string name="followRead">Leer jugadores seguidos</string>
+  <string name="followWrite">Seguir y dejar de seguir a otros jugadores</string>
+  <string name="msgWrite">Enviar mensaje privado a otros jugadores</string>
+  <string name="boardPlay">Juega con la API del tablero</string>
+  <string name="botPlay">Juega con la API de bot</string>
+  <string name="engineRead">Ver y usar tu motor externo</string>
+  <string name="engineWrite">Crear y actualizar motor externo</string>
+  <string name="webLogin">Crear sesiones web autenticadas (¡concede acceso completo!)</string>
+  <string name="webMod">Usar herramientas de moderador (dentro de los límites de tu permiso)</string>
+  <string name="personalAccessTokens">Tokens personales de acceso a la API</string>
+  <string name="canMakeOauthRequests">Puedes hacer solicitudes de OAuth sin pasar por la %s.</string>
+  <string name="authorizationCodeFlow">flujo de código de autorización</string>
+  <string name="insteadGenerateToken" comment="The parameter is a link to generate a token a personal access token">En su lugar, %s, que puedes usar directamente en solicitudes de API.</string>
+  <string name="generatePersonalToken">generar un token de acceso personal</string>
+  <string name="guardTokensCarefully">¡Guarda estos tokens con cuidado! Son como contraseñas. La ventaja de usar tokens sobre poner tu contraseña en un script es que los tokens pueden ser revocados, y puedes generar muchos de ellos.</string>
+  <string name="apiDocumentationLinks" comment="The first parameter links to a personal token app example. The second parameter links to the API documentation">Aquí hay un %1$s y el %2$s.</string>
+  <string name="personalTokenAppExample">ejemplo de aplicación de token personal</string>
+  <string name="apiDocumentation">Documentación de la API</string>
+  <string name="newToken">Nuevo token de acceso</string>
+  <string name="apiAccessTokens">Token de acceso a la API</string>
+  <string name="created">Creado %s</string>
+  <string name="lastUsed">Último uso %s</string>
+  <string name="alreadyHavePlayedGames">¡Ya has jugado!</string>
+  <string name="attentionOfDevelopers">Nota para la atención de los desarrolladores solamente:</string>
+  <string name="possibleToPrefill">Es posible llenar parcialmente este formulario ajustando los parámetros de consulta de la URL.</string>
+  <string name="forExample">Por ejemplo: %s</string>
+  <string name="ticksTheScopes">marca los alcances %1$s y %2$s, y establece la descripción del token.</string>
+  <string name="scopesCanBeFound">Los códigos de alcance se pueden encontrar en el código HTML del formulario.</string>
+  <string name="givingPrefilledUrls">Dar estas URLs parcialmente llenadas a tus usuarios les ayudará a obtener el alcance correcto del token.</string>
+</resources>
